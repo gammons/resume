@@ -1,5 +1,8 @@
 # Grant Ammons
 
+* grant@grant.dev
+* [https://grant.dev][gd]
+
 I'm a technical engineering leader with 15 years of experience building and scaling software, teams, and companies, with an emphasis on devops. 
 
 ## Core Skills
@@ -75,3 +78,4 @@ CTO School is a meetup group of engineering leaders who want to level up their t
 [uds]: https://stories.ultradeck.co/
 [ul]: https://ultralist.io
 [ulo]: https://github.com/ultralist
+[gd]: https://grant.dev
