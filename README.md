@@ -3,7 +3,7 @@
 * grant@grant.dev
 * [https://grant.dev][gd]
 
-I'm a technical engineering leader with 15 years of experience building and scaling software, teams, and companies, with an emphasis on devops. 
+I'm a technical engineering leader with 15 years of experience building and scaling software, teams, and companies, with an emphasis on DevOps. 
 
 ## Core Skills
 
