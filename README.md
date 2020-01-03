@@ -7,9 +7,9 @@ I'm a technical engineering leader with 15 years of experience building and scal
 
 ## Core Skills
 
-* **Engineering Leadership**: Over 10 years of experince managing teams.  Skilled at hiring + leading amazing engineering teams and enable them to do their best work.
+* **Engineering Leadership**: Over 10 years of experience managing teams.  Skilled at hiring + leading amazing engineering teams and enable them to do their best work.
 * **Ruby / Rails**: 13 years experience building + scaling production Rails applications.
-* **Devops**:  Care deeply about Infrastructure-as-code, and establishing effective CI/CD processes.
+* **DevOps**:  Care deeply about Infrastructure-as-code, and establishing effective CI/CD processes.
 
 ## Work experience
 
@@ -28,13 +28,13 @@ I'm a technical engineering leader with 15 years of experience building and scal
 
 **PipelineDeals - VP of Engineering / partner** - *Jan 2007 - Jan 2017*
 
-[PipelineDeals][pd] is a SaaS CRM product that I helped establish with 2 other cofounders.  During the time I was there, I helped build it from an idea to full-fledged CRM product serving thousands of customers with over $6MM ARR.
+[PipelineDeals][pd] is a SaaS CRM product that I helped establish with 2 other co-founders.  During the time I was there, I helped build it from an idea to full-fledged CRM product serving thousands of customers with over $6MM ARR.
 
 * Hired and managed 3 remote teams of software engineers.  My teams have delivered a significant amount of features and product improvements.
 * Ensured culture is strong and vibrant, even though we are all remote.  Engineer happiness and productivity were my primary concerns.
 * Established effective software delivery process to ensure high quality and tight collaboration. 
 * Crafted and honed all other processes that made up our engineering org: interviewing, onboarding, management, goals, QA, downtime communication.
-* Ensures best practices for software delivery.  Implemented continuous delivery via an awesome blue/green deployment setup and custom feature flipper that allows us to keep feature branches short and small.
+* Ensured best practices for software delivery.  Implemented continuous delivery via an awesome blue/green deployment setup and custom feature flipper that allows us to keep feature branches short and small.
 * Continually worked with the team leads to set the overall technical direction, keep up with tech landscape, and evaluate new tools as they become production-ready.
 * Managed a large production infrastructure in AWS, overseeing 50+ server instances.  Implemented best-in-class practices to ensure speed, scalability, and uptime.   Achieved 99.999% uptime in 2015.  Has kept infrastructure costs 5x below SaaS averages by strategic use + planning of reserved instances.
 
