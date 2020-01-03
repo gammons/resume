@@ -7,7 +7,7 @@ I'm a technical engineering leader with 15 years of experience building and scal
 
 ## Core Skills
 
-* **Engineering Leadership**: Skilled at hiring + leading amazing engineering teams and enable them to do their best work.
+* **Engineering Leadership**: Over 10 years of experince managing teams.  Skilled at hiring + leading amazing engineering teams and enable them to do their best work.
 * **Ruby / Rails**: 13 years experience building + scaling production Rails applications.
 * **Devops**:  Care deeply about Infrastructure-as-code, and establishing effective CI/CD processes.
 
